@@ -1,7 +1,9 @@
 name: animated_circular_progress_bar
 description: "A new Flutter package project."
 version: 1.0.0
-homepage:
+homepage: https://github.com/ikeoffiah/animated_circular_progress_bar
+repository: https://github.com/ikeoffiah/animated_circular_progress_bar
+issue_tracker: https://github.com/ikeoffiah/animated_circular_progress_bar/issues
 
 environment:
   sdk: ^3.10.4
