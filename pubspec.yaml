@@ -1,6 +1,6 @@
 name: animated_circular_progress_bar
 description: "A customizable and animated circular progress bar widget for Flutter. Features smooth animations, full customization of colors and sizing, and easy integration."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/ikeoffiah/animated_circular_progress_bar
 repository: https://github.com/ikeoffiah/animated_circular_progress_bar
 issue_tracker: https://github.com/ikeoffiah/animated_circular_progress_bar/issues

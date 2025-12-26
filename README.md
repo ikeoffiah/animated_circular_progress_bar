@@ -15,7 +15,7 @@ A beautiful and customizable circular progress bar widget for Flutter with smoot
 Add this to your package's `pubspec.yaml` file:
 ```yaml
 dependencies:
-  animated_circular_progress_bar: ^1.0.0
+  animated_circular_progress_bar: ^1.0.1
 ```
 
 Then run:
